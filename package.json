@@ -1,5 +1,5 @@
 {
-    "name": "typegoose-cursor-pagination",
+    "name": "@tecmie/typegoose-pagination-plugin",
     "version": "1.2.2",
     "description": "A mongoose plugin to find results using on cursor-based pagination with support for typegoose",
     "main": "lib/index.js",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ExtraBB/typegoose-cursor-pagination.git"
+        "url": "git+https://github.com/tecmie/typegoose-pagination-plugin.git"
     },
     "keywords": [
         "mongodb",
@@ -23,12 +23,12 @@
         "plugin",
         "typegoose"
     ],
-    "author": "Bruno Carvalhal",
+    "author": "Andrew Miracle",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/ExtraBB/typegoose-cursor-pagination/issues"
+        "url": "https://github.com/tecmie/typegoose-pagination-plugin/issues"
     },
-    "homepage": "https://github.com/ExtraBB/typegoose-cursor-pagination#readme",
+    "homepage": "https://github.com/tecmie/typegoose-pagination-plugin#readme",
     "dependencies": {
         "@typegoose/typegoose": "8.0.0-beta.5",
         "base64-url": "^2.2.0",
