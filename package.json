@@ -1,5 +1,5 @@
 {
-    "name": "@tecmie/typegoose-pagination-plugin",
+    "name": "typegoose-pagination-plugin",
     "version": "1.2.2",
     "description": "A mongoose plugin to find results using on cursor-based pagination with support for typegoose",
     "main": "lib/index.js",
