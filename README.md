@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/ExtraBB/typegoose-cursor-pagination.svg?branch=master)](https://travis-ci.com/ExtraBB/typegoose-cursor-pagination)
 
-This module aids in implementing "cursor-based" pagination using Mongo range queries or relevancy-based search results. It is based on the [mongo-cursor-pagination](https://www.npmjs.com/package/mongo-cursor-pagination) package but has a dedicated mongoose plugin (which keeps instance methods etc.) and support for **Typegoose** out of the box.
+This module aids in implementing "cursor-based" pagination using Mongo range queries or relevancy-based search results. It is based on the [mongo-cursor-pagination](https://www.npmjs.com/package/mongo-cursor-pagination) package but has a dedicated mongoose plugin (which keeps instance methods etc.) and support for **Typegoose** out of the box. This plugin is currently targeted at [Typegoose @next-8.0.0.beta](https://github.com/typegoose/typegoose/tree/beta)
 
 ## Background
 
