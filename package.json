@@ -32,7 +32,6 @@
     "dependencies": {
         "@typegoose/typegoose": "8.0.0-beta.5",
         "base64-url": "^2.2.0",
-        "bson-ext": "^2.0.5",
         "mongodb-extended-json": "^1.11.0",
         "mongoose": "^5.12.4",
         "ramda": "^0.27.0"
