@@ -6,9 +6,9 @@ name: Node.js Test
 
 on:
   push:
-    branches: [ master ]
+    branches: [ next, master ]
   pull_request:
-    branches: [ dev, master ]
+    branches: [ next, master ]
 
 jobs:
   build:
